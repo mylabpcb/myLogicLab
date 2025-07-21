@@ -1,1 +1,1 @@
-# myLogicLab
+# myLogicLab A pure transistor CMOS designs of logic gates and devices.
