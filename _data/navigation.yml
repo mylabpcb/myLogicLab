@@ -1,0 +1,10 @@
+- name: Projects
+  dropdown:
+    - name: myCPU
+      link: https://mycpu.mylabpcb.com/pages/en/mycpu/introduction/
+    - name: myCPU256
+      link: https://mycpu.mylabpcb.com/pages/en/mycpu/introduction/
+- name: Blog
+  link: /blog/en/
+- name: About
+  link: /pages/en/about

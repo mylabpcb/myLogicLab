@@ -1,0 +1,56 @@
+div.highlight {
+    margin-bottom: 1rem;
+}
+
+@include desktop {
+    .navbar-item {
+        &.is-hoverable:hover {
+            .navbar-dropdown {
+                display: block;
+            }
+        }
+    }
+}
+
+.contents {
+    box-shadow: $box-shadow;
+    padding: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.hero-darken {
+    background-color: rgba($hero-darken, 0.5);
+}
+
+.hero-light{
+    background-color: $hero-light;
+}
+
+.hero-minHeigth{
+    min-height: 200px;
+}
+
+.content {
+    figure {
+        margin: 0;
+    }
+}
+
+// Customize blockqoute
+blockquote{
+    font-weight: bold;
+    color: #800e0e;
+}
+
+// Used on image center in kramdown
+.center {
+    text-align: center;
+}
+
+.callout {
+    &-icon {
+        width: 4rem;
+        height: 4rem;
+        margin-bottom: 0.75rem;
+    }
+}
