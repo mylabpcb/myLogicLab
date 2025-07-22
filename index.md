@@ -1,5 +1,5 @@
 ---
-title: The myLabPCB Home
+title: The myLogic project
 subtitle: Description
 layout: page
 show_sidebar: false
@@ -9,7 +9,7 @@ hero_height: hero-minHeigth
 hero_darken: false
 ---
 
-# Welcome to myLabPCB
-Welcome to myLabPCB
+# Welcome to the myLogic project
+Welcome to the myLogic project.
 {: style="text-align: justify"}
 
