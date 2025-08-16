@@ -1,4 +1,8 @@
-- name: Kits
+- name: myLogic
+  dropdown:
+    - name: introduction
+      link: /pages/en/myLogic/intro
+- name: myLogic Sets
   dropdown:
     - name: myLogic Basic Logic gates
       link: https://mylogic.mylabpcb.com/pages/en/mycpu/introduction/
