@@ -1,5 +1,5 @@
 ---
-title: "myCPU: The Kit" 
+title: "myLogicLab: The Kit" 
 subtitle: A full set of 40+ PCBs
 layout: page
 gallery: the_kit_gallery

@@ -1,6 +1,6 @@
 ---
-title: "myLogicLab: Introduction"
-subtitle: Digital logic elements designed purely on CMOS transistors
+title: "myLogicLab: Template"
+subtitle: Basic Template
 layout: page
 show_sidebar: false
 hide_footer: true

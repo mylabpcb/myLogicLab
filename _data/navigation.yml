@@ -1,13 +1,14 @@
-- name: myLogic
+- name: myLogicLab
   dropdown:
     - name: introduction
       link: /pages/en/myLogic/intro
-- name: myLogic Sets
+- name: Starter Kits
+  link: pages/en/myLogic/StarterKits
   dropdown:
-    - name: myLogic Basic Logic gates
-      link: https://mylogic.mylabpcb.com/pages/en/mycpu/introduction/
-    - name: myLogic Basic Flip Flops
-      link: https://mylogic.mylabpcb.com/pages/en/mycpu/introduction/
+    - name: Basic Logic gates
+      link: products/basic
+    - name: Multiple Inputs Logic Gates
+      link: products/multi
 - name: Blog
   link: /blog/en/
 - name: About
