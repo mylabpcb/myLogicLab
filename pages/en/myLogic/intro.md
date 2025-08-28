@@ -1,6 +1,6 @@
 ---
 title: "myLogic: Introduction"
-subtitle: A pure CMOS transistors based digital logic elements
+subtitle: Digital logic elements designed purely on CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true
