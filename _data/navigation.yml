@@ -5,10 +5,10 @@
 - name: Starter Kits
   link: pages/en/myLogic/starterKits
   dropdown:
-    - name: Basic Logic gates
+    - name: BASIC Logic Gates
       link: products/basic
-    - name: Multiple Inputs Logic Gates
-      link: products/multi
+    - name: BASIC Full Logic Gates
+      link: products/basic_full
 - name: Blog
   link: /blog/en/
 - name: About
