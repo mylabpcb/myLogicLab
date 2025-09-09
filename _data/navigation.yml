@@ -1,7 +1,7 @@
 - name: myLogicLab
   dropdown:
     - name: introduction
-      link: /pages/en/myLogic/intro
+      link: /pages/en/introduction
 - name: Starter Kits
   link: pages/en/myLogic/starterKits
   dropdown:
