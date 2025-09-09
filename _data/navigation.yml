@@ -9,6 +9,12 @@
       link: products/basic
     - name: BASIC Full Logic Gates
       link: products/basic_full
+- name: Logic Samples
+  dropdown:
+    - name: XOR Gate
+      link: /pages/en/mylogic/samples/xor_a
+    - name: XOR Gate using NANDs
+      link: /pages/en/mylogic/samples/xor_b
 - name: Blog
   link: /blog/en/
 - name: About
