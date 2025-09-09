@@ -9,3 +9,9 @@ hero_height: hero-minHeigth
 hero_darken: false
 ---
 > The content is under development, the final version will be as soon as possible.
+
+<br/>
+<figure class="center">
+    <img src="{{ site.baseurl }}/img/samples/xor_b.png" alt="XOR gate diagram" title="XOR gate diagram" width="500px">
+    <figcaption>XOR gate diagram</figcaption>
+</figure>

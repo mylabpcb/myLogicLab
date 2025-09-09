@@ -9,3 +9,4 @@ hero_height: hero-minHeigth
 hero_darken: false
 ---
 > The content is under development, the final version will be as soon as possible.
+<br/>
