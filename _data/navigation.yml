@@ -3,18 +3,19 @@
     - name: introduction
       link: /pages/en/introduction
 - name: Starter Kits
-  link: pages/en/myLogic/starterKits
+  link: pages/en/starterKits
   dropdown:
     - name: BASIC Logic Gates
       link: products/basic
     - name: BASIC Full Logic Gates
       link: products/basic_full
-- name: Logic Samples
+- name: BASIC Samples
   dropdown:
-    - name: XOR Gate
-      link: /pages/en/mylogic/samples/xor_a
-    - name: XOR Gate using NANDs
-      link: /pages/en/mylogic/samples/xor_b
+      - name: XOR Gate
+        link: /pages/en/samples/xor_a
+      - name: XOR Gate using NANDs
+        link: /pages/en/samples/xor_b
+   
 - name: Blog
   link: /blog/en/
 - name: About
