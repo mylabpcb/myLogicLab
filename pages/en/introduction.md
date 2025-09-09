@@ -1,6 +1,6 @@
 ---
-title: "myCPU: The Tools"
-subtitle: Most common tools to build your myCPU
+title: "myLogicLab: Introduction"
+subtitle: Digital logic elements designed purely on CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true
@@ -10,3 +10,4 @@ hero_darken: false
 ---
 > The content is under development, the final version will be as soon as possible.
 
+()[]

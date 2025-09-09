@@ -1,6 +1,6 @@
 ---
-title: "myCPU: The Tools"
-subtitle: Most common tools to build your myCPU
+title: "myLogicLab: XOR gate"
+subtitle: A common logic built for a XOR gate
 layout: page
 show_sidebar: false
 hide_footer: true
@@ -9,4 +9,3 @@ hero_height: hero-minHeigth
 hero_darken: false
 ---
 > The content is under development, the final version will be as soon as possible.
-
