@@ -1,5 +1,5 @@
 ---
-title: "myLogicLab: XOR gate using NANDs"
+title: "myLogic: XOR gate using NANDs"
 subtitle: Prototype of XOR gate built with NAND gates
 layout: page
 show_sidebar: false
