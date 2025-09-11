@@ -12,6 +12,6 @@ hero_darken: false
 
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/samples/xor_b.png" alt="XOR gate diagram" title="XOR gate diagram" width="500px">
+    <img src="{{ site.baseurl }}/img/prototypes/xor_b.png" alt="XOR gate diagram" title="XOR gate diagram" width="500px">
     <figcaption>XOR gate diagram</figcaption>
 </figure>
