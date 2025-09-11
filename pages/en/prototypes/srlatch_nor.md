@@ -1,6 +1,6 @@
 ---
-title: "myLogic: XOR gate using NANDs"
-subtitle: Prototype of XOR gate built with NAND gates
+title: "myLogic: SR-Latch using NORs"
+subtitle: Prototype of SR-Latch built with NOR gates
 layout: page
 show_sidebar: false
 hide_footer: true
