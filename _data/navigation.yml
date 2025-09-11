@@ -1,13 +1,13 @@
-- name: myLogicLab
+- name: myLogic
   dropdown:
     - name: introduction
       link: /pages/en/introduction
 - name: Starter Kits
   link: pages/en/starterKits
   dropdown:
-    - name: BASIC Logic Gates
+    - name: myLogic BASIC kit
       link: products/basic
-    - name: BASIC Full Logic Gates
+    - name: myLogic BASIC Full kit
       link: products/basic_full
 - name: BASIC Samples
   dropdown:
