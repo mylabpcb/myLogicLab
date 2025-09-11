@@ -1,5 +1,5 @@
 ---
-title: "myLogicLab: Introduction"
+title: "myLogic: Introduction"
 subtitle: Digital logic elements designed purely on CMOS transistors
 layout: page
 show_sidebar: false
