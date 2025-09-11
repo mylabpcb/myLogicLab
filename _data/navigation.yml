@@ -12,10 +12,13 @@
 - name: BASIC Samples
   dropdown:
       - name: XOR Gate
-        link: /pages/en/samples/xor_a
+        link: /pages/en/prototypes/xor_a
       - name: XOR Gate using NANDs
-        link: /pages/en/samples/xor_b
-   
+        link: /pages/en/prototypes/xor_b
+      - name: SR Latch using NORs
+        link: /pages/en/prototypes/srlatch_nor
+      - name: SR Latch using NANDs
+        link: /pages/en/prototypes/srlatch_nand
 - name: Blog
   link: /blog/en/
 - name: About

@@ -1,6 +1,6 @@
 ---
 title: "myLogicLab: XOR gate using NANDs"
-subtitle: Built only with NAND gates
+subtitle: Prototype of XOR gate built with NAND gates
 layout: page
 show_sidebar: false
 hide_footer: true
