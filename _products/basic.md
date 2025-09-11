@@ -1,12 +1,14 @@
 ---
-title: myLogic BASIC Board Kit
-subtitle: A board set of 7 fundamental logic gates
+title: myLogic BASIC kit
+subtitle: A PCB set of the 7 fundamental logic gates
 description: This is the more basic starter kit, including the boards to build the most common logic gates.
 #product_code: LGT-1
 layout: product
 image: https://via.placeholder.com/640x480
 price: 24.99 €
 features:
+    - label: PCBs only
+      icon: fas fa-check-circle
     - label: Includes 32 pieces of 8 types of different logic boards
       icon: fas fa-check-circle
 show_sidebar: false

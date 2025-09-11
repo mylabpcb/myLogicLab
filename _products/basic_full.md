@@ -1,6 +1,6 @@
 ---
-title: myLogic BASIC Full Kit
-subtitle: A board set of 7 fundamental logic gates with components
+title: myLogic BASIC Full kit
+subtitle: A PCB set of the 7 fundamental logic gates including components
 description: This is the full package of the more basic starter kit, including the boards to build the most common logic gates and components.
 #product_code: FLGT-1
 layout: product
