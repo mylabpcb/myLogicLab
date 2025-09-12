@@ -4,7 +4,7 @@ subtitle: A PCB set of the 7 fundamental logic gates
 description: This is the more basic starter kit, including the boards to build the most common logic gates.
 #product_code: LGT-1
 layout: product
-image: https://via.placeholder.com/640x480
+image: /img/products/basic_kit_min.jpg
 price: 24.99 €
 features:
     - label: PCBs only
