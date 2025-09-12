@@ -12,6 +12,6 @@ hero_darken: false
 
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/prototypes/srlatch_nor.png" alt="Prototype diagram" title="Prototype diagram" width="400px">
+    <img src="{{ site.baseurl }}/img/prototypes/srlatch_nor_full.png" alt="Prototype diagram" title="Prototype diagram" width="400px">
     <figcaption>SR-Latch using NOR gates</figcaption>
 </figure>

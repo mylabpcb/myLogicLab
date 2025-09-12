@@ -12,6 +12,6 @@ hero_darken: false
 
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/prototypes/srlatch_nand.png" alt="Prototype diagram" title="Prototype diagram" width="400px">
+    <img src="{{ site.baseurl }}/img/prototypes/srlatch_nand_full.png" alt="Prototype diagram" title="Prototype diagram" width="400px">
     <figcaption>SR-Latch using NAND gates</figcaption>
 </figure>
