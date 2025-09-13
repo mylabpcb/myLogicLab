@@ -2,14 +2,18 @@
   dropdown:
     - name: introduction
       link: /pages/en/introduction
-- name: Starter Kits
+- name: Modules
+  dropdown:
+    - name: NAND Gate
+      link: /pages/en/modules/nand
+- name: Kits
   link: pages/en/starterKits
   dropdown:
     - name: myLogic BASIC kit
       link: products/basic
     - name: myLogic BASIC Full kit
       link: products/basic_full
-- name: BASIC Samples
+- name: Prototypes
   dropdown:
       - name: XOR Gate
         link: /pages/en/prototypes/xor_a
