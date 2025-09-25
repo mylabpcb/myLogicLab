@@ -3,6 +3,7 @@
     - name: introduction
       link: /pages/en/introduction
 - name: Modules
+  link: /pages/en/modules/intro
   dropdown:
     - name: NAND Gate
       link: /pages/en/modules/nand
