@@ -6,10 +6,12 @@ description: This is the full package of the more basic starter kit, including t
 layout: product
 image: /img/products/basic_kit_full_min.jpg
 price: 39.99 €
+available_soon: Available Soon
+#product_code: 
 features:
     - label: Includes 32 pieces of 8 types of different logic boards
       icon: fas fa-check-circle
-    - label: Come with components
+    - label: Including components
       icon: fas fa-check-circle
 show_sidebar: false
 hide_footer: true

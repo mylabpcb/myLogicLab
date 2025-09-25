@@ -6,6 +6,8 @@ description: This is the more basic starter kit, including the boards to build t
 layout: product
 image: /img/products/basic_kit_min.jpg
 price: 24.99 €
+available_soon: Available Soon
+#product_code: 
 features:
     - label: PCBs only
       icon: fas fa-check-circle

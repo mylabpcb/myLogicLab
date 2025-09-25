@@ -17,6 +17,9 @@ layout: default
         {% if page.product_code %}
         <p class="subtitle is-5 has-text-right">{{ page.product_code }}</p>
         {% endif %}
+        {% if page.available_soon %}
+        <p class="box subtitle is-5 has-text-left has-text-danger">{{ page.available_soon }}</p>
+        {% endif %}
         
         {% if page.rating %}
             {% include rating.html rating=page.rating %}
