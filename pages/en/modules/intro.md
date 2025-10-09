@@ -12,7 +12,7 @@ hero_darken: false
 
 <br/>
 
-* [NAND gate]()
+* [NAND gate](/pages/en/modules/nand)
 * [NOR gate]()
 * [AND gate]()
 * [OR gate]()
