@@ -7,6 +7,10 @@
   dropdown:
     - name: NAND Gate
       link: /pages/en/modules/nand
+    - name: NOR Gate
+      link: /pages/en/modules/nor
+    - name: XOR Gate
+      link: /pages/en/modules/xor
 - name: Kits
   link: pages/en/starterKits
   dropdown:

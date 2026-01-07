@@ -11,6 +11,6 @@ hero_darken: false
 > The content is under development, the final version will be as soon as possible.
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/nand_min.png" alt="NAND gate module" title="NAND gate module" width="500px">
+    <img src="{{ site.baseurl }}/img/modules/myLogic_nand.png" alt="NAND gate module" title="NAND gate module" width="500px">
     <figcaption>NAND gate module</figcaption>
 </figure>
