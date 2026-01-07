@@ -11,6 +11,8 @@
       link: /pages/en/modules/nor
     - name: XOR Gate
       link: /pages/en/modules/xor
+    - name: XNOR Gate
+      link: /pages/en/modules/xnor
 - name: Kits
   link: pages/en/starterKits
   dropdown:
