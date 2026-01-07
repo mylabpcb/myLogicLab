@@ -11,6 +11,6 @@ hero_darken: false
 > The content is under development, the final version will be as soon as possible.
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/myLogic_nor.png" alt="NOR gate module" title="NOR gate module" width="600px">
+    <img src="{{ site.baseurl }}/img/modules/myLogic_nor_min.png" alt="NOR gate module" title="NOR gate module" width="600px">
     <figcaption>NOR gate module</figcaption>
 </figure>
