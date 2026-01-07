@@ -3,12 +3,20 @@
     - name: introduction
       link: /pages/en/introduction
 - name: Modules
-  link: /pages/en/modules/intro
+  link: /pages/en/modules/modules
   dropdown:
     - name: NAND Gate
       link: /pages/en/modules/nand
     - name: NOR Gate
       link: /pages/en/modules/nor
+    - name: AND Gate
+      link: /pages/en/modules/and
+    - name: OR Gate
+      link: /pages/en/modules/or
+    - name: NOT Gate
+      link: /pages/en/modules/not
+    - name: Dual NOT Gate
+      link: /pages/en/modules/dnot
     - name: XOR Gate
       link: /pages/en/modules/xor
     - name: XNOR Gate

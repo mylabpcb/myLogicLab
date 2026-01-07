@@ -1,6 +1,6 @@
 ---
-title: "myLogic: NOR gate"
-subtitle: A NOR gate built with 4 CMOS transistors
+title: "myLogic: AND gate"
+subtitle: A AND gate built with 6 CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true
@@ -11,6 +11,6 @@ hero_darken: false
 > The content is under development, the final version will be as soon as possible.
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/myLogic_nor.png" alt="NOR gate module" title="NOR gate module" width="600px">
-    <figcaption>NOR gate module</figcaption>
+    <img src="{{ site.baseurl }}/img/modules/myLogic_and.png" alt="AND gate module" title="AND gate module" width="600px">
+    <figcaption>AND gate module</figcaption>
 </figure>

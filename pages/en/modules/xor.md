@@ -11,6 +11,6 @@ hero_darken: false
 > The content is under development, the final version will be as soon as possible.
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/myLogic_xor.png" alt="XOR gate module" title="XOR gate module" width="500px">
+    <img src="{{ site.baseurl }}/img/modules/myLogic_xor.png" alt="XOR gate module" title="XOR gate module" width="600px">
     <figcaption>XOR gate module</figcaption>
 </figure>
