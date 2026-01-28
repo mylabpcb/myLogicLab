@@ -14,3 +14,7 @@ hero_darken: false
     <img src="{{ site.baseurl }}/img/modules/myLogic_nor3_min.png" alt="NOR3 gate module" title="NOR3 gate module" width="600px">
     <figcaption>NOR3 gate module</figcaption>
 </figure>
+<figure class="center">
+    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_nor3_sch.png" alt="NOR3 gate schematic" title="NOR3 gate schematic" width="500px">
+    <figcaption>NOR3 gate schematic</figcaption>
+</figure>
