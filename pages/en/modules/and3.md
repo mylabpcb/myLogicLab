@@ -15,6 +15,6 @@ hero_darken: false
     <figcaption>AND3 gate module</figcaption>
 </figure>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_and3_sch_min.png" alt="AND3 gate schematic" title="AND3 gate schematic" width="500px">
+    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_and3_sch_min.png" alt="AND3 gate schematic" title="AND3 gate schematic" width="700px">
     <figcaption>AND3 gate schematic</figcaption>
 </figure>

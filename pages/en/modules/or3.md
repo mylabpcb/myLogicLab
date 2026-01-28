@@ -15,6 +15,6 @@ hero_darken: false
     <figcaption>OR3 gate module</figcaption>
 </figure>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_or3_sch_min.png" alt="OR3 gate schematic" title="OR3 gate schematic" width="500px">
+    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_or3_sch_min.png" alt="OR3 gate schematic" title="OR3 gate schematic" width="700px">
     <figcaption>OR3 gate schematic</figcaption>
 </figure>

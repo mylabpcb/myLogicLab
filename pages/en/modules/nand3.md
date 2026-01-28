@@ -15,6 +15,6 @@ hero_darken: false
     <figcaption>NAND3 gate module</figcaption>
 </figure>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_nand3_sch_min.png" alt="NAND3 gate schematic" title="NAND3 gate schematic" width="500px">
+    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_nand3_sch_min.png" alt="NAND3 gate schematic" title="NAND3 gate schematic" width="600px">
     <figcaption>NAND3 gate schematic</figcaption>
 </figure>
