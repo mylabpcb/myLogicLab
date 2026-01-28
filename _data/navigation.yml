@@ -11,7 +11,7 @@
     - name: Combinational modules
       link: /pages/en/modules/combinational
     - name: Sequential modules
-      link: /pages/en/modules/Sequential
+      link: /pages/en/modules/sequential
     - name: Base modules
       link: /pages/en/modules/base
 - name: Kits
