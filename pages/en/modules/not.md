@@ -11,6 +11,10 @@ hero_darken: false
 > The content is under development, the final version will be as soon as possible.
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/modules/myLogic_not_min.png" alt="NOT gate module" title="NOT gate module" width="600px">
+    <img src="{{ site.baseurl }}/img/modules/myLogic_not_min.png" alt="NOT gate module" title="NOT gate module" width="500px">
     <figcaption>Single NOT gate module</figcaption>
+</figure>
+<figure class="center">
+    <img src="{{ site.baseurl }}/img/modules/sch/myLogic_not_sch_min.png" alt="NOT gate schematic" title="NOT gate schematic" width="600px">
+    <figcaption>Single NOT gate schematic</figcaption>
 </figure>
