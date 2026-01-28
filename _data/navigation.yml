@@ -1,26 +1,19 @@
 - name: myLogic
   dropdown:
-    - name: introduction
+    - name: The myLogicProject
+      link: /pages/en/project
+    - name: Introduction
       link: /pages/en/introduction
+    - name: Components
+      link: /pages/en/components
 - name: Modules
-  link: /pages/en/modules/modules
   dropdown:
-    - name: NAND Gate
-      link: /pages/en/modules/nand
-    - name: NOR Gate
-      link: /pages/en/modules/nor
-    - name: AND Gate
-      link: /pages/en/modules/and
-    - name: OR Gate
-      link: /pages/en/modules/or
-    - name: NOT Gate
-      link: /pages/en/modules/not
-    - name: Dual NOT Gate
-      link: /pages/en/modules/dnot
-    - name: XOR Gate
-      link: /pages/en/modules/xor
-    - name: XNOR Gate
-      link: /pages/en/modules/xnor
+    - name: Combinational modules
+      link: /pages/en/modules/combinational
+    - name: Sequential modules
+      link: /pages/en/modules/Sequential
+    - name: Base modules
+      link: /pages/en/modules/base
 - name: Kits
   link: pages/en/starterKits
   dropdown:
@@ -38,7 +31,5 @@
         link: /pages/en/prototypes/srlatch_nor
       - name: SR Latch using NANDs
         link: /pages/en/prototypes/srlatch_nand
-- name: Blog
-  link: /blog/en/
 - name: About
   link: https://home.mylabpcb.com/pages/en/about
