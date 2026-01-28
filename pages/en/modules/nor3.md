@@ -1,6 +1,6 @@
 ---
 title: "myLogic: NOR3 gate"
-subtitle: A NOR3 gate built with 6 CMOS transistors
+subtitle: 3 inputs NOR gate built with 6 CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true
