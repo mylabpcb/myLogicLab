@@ -5,7 +5,7 @@ description: This is the full package of the more basic starter kit, including t
 #product_code: FLGT-1
 layout: product
 image: /img/products/basic_kit_full_min.jpg
-price: 39.99 €
+price: 45 €
 available_soon: Available Soon
 #product_code: 
 features:

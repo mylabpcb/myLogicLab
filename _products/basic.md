@@ -5,7 +5,7 @@ description: This is the more basic starter kit, including the boards to build t
 #product_code: LGT-1
 layout: product
 image: /img/products/basic_kit_min.jpg
-price: 24.99 €
+price: 30 €
 available_soon: Available Soon
 #product_code: 
 features:
