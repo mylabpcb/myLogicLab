@@ -15,7 +15,7 @@ hero_darken: false
 * [SR Latch (NOR)]()
 * [SR Latch (NAND)]()
 * [SR Latch SYNC (NAND)]()
-* [D-Type FF]()
+* [D-Type FF](/pages/en/modules/d_ff)
 * [JK FF with Toogle]()
   
 
