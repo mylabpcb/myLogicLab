@@ -1,6 +1,6 @@
 ---
 title: "myLogic: AND gate"
-subtitle: A AND gate built with 6 CMOS transistors
+subtitle: An AND gate built with 6 CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true

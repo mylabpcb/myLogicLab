@@ -1,6 +1,6 @@
 ---
 title: "myLogic: OR gate"
-subtitle: A OR gate built with 6 CMOS transistors
+subtitle: An OR gate built with 6 CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true
