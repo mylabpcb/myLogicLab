@@ -1,6 +1,6 @@
 ---
 title: "myLogic: D-Type Flip-Flop"
-subtitle: A D-Type FF built with 18 CMOS transistors
+subtitle: A D-Type Flip Flop built with 18 CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true

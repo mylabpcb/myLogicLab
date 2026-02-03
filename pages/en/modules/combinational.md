@@ -1,6 +1,6 @@
 ---
-title: "myLogic: Modules"
-subtitle: Full list of myLogic modules
+title: "myLogic: Combinational Logic Modules"
+subtitle: Full list of myLogic combinational logic modules
 layout: page
 show_sidebar: false
 hide_footer: true
@@ -28,9 +28,8 @@ hero_darken: false
 * [NOR4 gate](/pages/en/modules/nor4)
 * [OR4 gate](/pages/en/modules/or4)
 * [AND4 gate](/pages/en/modules/and4)
-* [TRISTATE Inverter]()
-* [TRISTATE Buffer]()
-* [Positive EDGE Detector]()
-* [Negative EDGE Detector]()
+* [TRISTATE Inverter](/pages/en/modules/tri_inverter)
+* [TRISTATE Buffer](/pages/en/modules/tri_buffer)
+
   
 
