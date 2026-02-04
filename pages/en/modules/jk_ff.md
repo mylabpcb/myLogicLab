@@ -1,6 +1,6 @@
 ---
-title: "myLogic: JK Flip-Flop"
-subtitle: A JK Flip Flop built with 20 CMOS transistors
+title: "myLogic: JK Flip-Flop with TOOGLE"
+subtitle: A JK Flip Flop with TOOGLE support built with 20 CMOS transistors
 layout: page
 show_sidebar: false
 hide_footer: true
