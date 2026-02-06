@@ -9,6 +9,8 @@ hero_height: hero-minHeigth
 hero_darken: false
 ---
 > The content is under development, the final version will be as soon as possible.
+
+[Download related documents from the Github repository](https://github.com/mylabpcb/myLogicLab/tree/master/myLogic_BASIC/Docs){:target="_blank"}
 <br/>
 <figure class="center">
     <img src="{{ site.baseurl }}/img/modules/myLogic_nand_min.png" alt="NAND gate module" title="NAND gate module" width="500px">
