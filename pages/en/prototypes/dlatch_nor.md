@@ -11,7 +11,7 @@ hero_darken: false
 > The content is under development, the final version will be as soon as possible.
 
 Related myLogic modules:
-[NOR gate](/pages/en/modules/NOR), [AND gate](/pages/en/modules/and), [NOT gate](/pages/en/modules/not)
+[NOR gate](/pages/en/modules/nor), [AND gate](/pages/en/modules/and), [NOT gate](/pages/en/modules/not)
 <br/>
 <figure class="center">
     <img src="{{ site.baseurl }}/img/prototypes/diagrams/dlatch_nor.png" alt="Prototype diagram" title="Prototype diagram" width="600px">
