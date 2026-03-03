@@ -9,11 +9,13 @@
 - name: Modules
   dropdown:
     - name: Combinational modules
-      link: /pages/en/modules/combinational
+      link: /pages/en/combinational
     - name: Sequential modules
-      link: /pages/en/modules/sequential
+      link: /pages/en/sequential
+    - name: Memory modules
+      link: /pages/en/memory
     - name: Base modules
-      link: /pages/en/modules/base
+      link: /pages/en/base
 - name: Kits
   link: pages/en/starterKits
   dropdown:
