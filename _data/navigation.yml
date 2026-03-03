@@ -31,5 +31,13 @@
         link: /pages/en/prototypes/srlatch_nor
       - name: SR Latch using NANDs
         link: /pages/en/prototypes/srlatch_nand
+      - name: Full Adder (XOR)
+        link: /pages/en/prototypes/full_adder
+      - name: D-Type Latch (NOR)
+        link: /pages/en/prototypes/dlatch_nor
+      - name: D-Type Latch (NAND)
+        link: /pages/en/prototypes/dlatch_nand
+      - name: Positive Edge Detector
+        link: /pages/en/prototypes/pos_edge
 - name: About
   link: https://home.mylabpcb.com/pages/en/about
