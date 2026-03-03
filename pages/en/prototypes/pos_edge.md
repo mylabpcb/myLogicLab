@@ -12,10 +12,10 @@ hero_darken: false
 
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/prototypes/pos_edge.png" alt="Prototype diagram" title="Prototype diagram" width="600px">
+    <img src="{{ site.baseurl }}/img/prototypes/diagrams/pos_edge.png" alt="Prototype diagram" title="Prototype diagram" width="600px">
     <figcaption>Positive Edge Detector with a RC delay</figcaption>
 </figure>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/prototypes/pos_edge_detect_osc.png" alt="Prototype diagram" title="Prototype diagram" width="700px">
+    <img src="{{ site.baseurl }}/img/prototypes/osc/pos_edge_detect_osc.png" alt="Prototype diagram" title="Prototype diagram" width="700px">
     <figcaption>Positive Edge Detector HIGH output pulse </figcaption>
 </figure>

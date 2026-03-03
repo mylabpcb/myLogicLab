@@ -12,6 +12,6 @@ hero_darken: false
 
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/prototypes/dlatch_nand.png" alt="Prototype diagram" title="Prototype diagram" width="600px">
+    <img src="{{ site.baseurl }}/img/prototypes/diagrams/dlatch_nand.png" alt="Prototype diagram" title="Prototype diagram" width="600px">
     <figcaption>D-Type Latch using NAND gates for latch core</figcaption>
 </figure>

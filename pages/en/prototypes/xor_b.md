@@ -1,6 +1,6 @@
 ---
 title: "myLogic: XOR gate using NANDs"
-subtitle: Prototype of XOR gate built with myLogic NAND modules
+subtitle: Prototype of XOR gate built with NAND gates
 layout: page
 show_sidebar: false
 hide_footer: true
@@ -8,17 +8,16 @@ hide_hero: false
 hero_height: hero-minHeigth
 hero_darken: false
 ---
-Related modules:
-[myLogic NAND gate](/pages/en/modules/nand)
+Related myLogic modules:
+[NAND gate](/pages/en/modules/nand)
 <br/>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/prototypes/xor_b.png" alt="XOR gate diagram" title="XOR gate diagram" width="600px">
+    <img src="{{ site.baseurl }}/img/prototypes/diagrams/xor_b.png" alt="XOR gate diagram" title="XOR gate diagram" width="600px">
     <figcaption>XOR gate diagram</figcaption>
 </figure>
 <figure class="center">
-    <img src="{{ site.baseurl }}/img/prototypes/xor_b_proto_min.png" alt="XOR gate diagram" title="XOR gate diagram" width="550px">
-    <img src="{{ site.baseurl }}/img/prototypes/xor_b_proto_on_min.png" alt="XOR gate diagram" title="XOR gate diagram" width="600px">
-    <figcaption>XOR gate prototype</figcaption>
+    <img src="{{ site.baseurl }}/img/prototypes/xor_b_proto2_min.png" alt="XOR gate breadboard" title="XOR gate breadboard" width="700px">
+    <figcaption>XOR gate breadboard</figcaption>
 </figure>
 
 <div style="position:relative;width:100%;padding-top:56.25%;">
