@@ -12,3 +12,5 @@ group :jekyll_plugins do
     gem "webrick"
 end
 
+gem "csv"
+gem "base64"
